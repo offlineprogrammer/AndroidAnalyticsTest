@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "398248898779",
+    "firebase_url": "https://android-analytics-test-92772.firebaseio.com",
+    "project_id": "android-analytics-test-92772",
+    "storage_bucket": "android-analytics-test-92772.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398248898779:android:e799639932f4b57b889cfe",
+        "android_client_info": {
+          "package_name": "com.offlineprogrammer.androidanalyticstest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398248898779-2jgsvv29t7kn64rl5trg4ond5e31vsa4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG01B-EpeaAnWJf9lhKCBW5MJFlGvoB08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398248898779-2jgsvv29t7kn64rl5trg4ond5e31vsa4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
